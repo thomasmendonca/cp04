@@ -33,7 +33,7 @@ O **PlantSelect** é um aplicativo desenvolvido em React Native que ajuda os usu
    git clone https://github.com/seu_usuario/plantselect.git
    cd plantselect
    npm install
-   npm expo start
+   npx expo start
 
 
 
